@@ -1,0 +1,22 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.content{
+    width: 50%;
+    text-align: center;
+}
+
+h1{
+    font-size: 32px;
+    color: blue;
+}
+
+.box{
+    background-color: beige;
+    width: 150px;
+    height: 150px;
+}
